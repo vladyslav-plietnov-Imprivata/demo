@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  database:
+    server: localhost
+    port: 5432
+    db: demo
+    username: postgres
+    password: postgres
+    schema: public
